@@ -15,7 +15,7 @@
             @endif
         </div>
         <div class="form-group">
-            <input type="password" class="form-control form-control-user {{$errors->has('password') ? 'is-invalid' : ''}}" id="password" placeholder="Password">
+            <input type="password" value="{{old('password')}}" class="form-control form-control-user {{$errors->has('password') ? 'is-invalid' : ''}}" id="password" placeholder="Password">
             @if ($errors->has('password'))
                 <span class="invalid-feedback" role="alert">
                     <b>{{$errors->first('password')}}</b>
@@ -24,7 +24,7 @@
         </div>
         <div class="form-group">
             <div class="custom-control custom-checkbox small">
-                <input type="checkbox" class="custom-control-input" id="customCheck">
+                <input type="checkbox" name="remember" {{old('remember')? 'checked' : ''}} class="custom-control-input" id="customCheck">
                 <label class="custom-control-label" for="customCheck">Remember Me</label>
             </div>
         </div>

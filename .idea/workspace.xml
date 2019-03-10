@@ -2,99 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56a40cca-5fc5-4eea-bfa1-f85bc0bbf596" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/backend/css/sb-admin-2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/css/sb-admin-2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/img/undraw_posting_photo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/js/demo/chart-area-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/js/demo/chart-bar-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/js/demo/chart-pie-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/js/demo/datatables-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/js/sb-admin-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/js/sb-admin-2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/admin/css/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/admin/js/js.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/bootstrap/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/bootstrap/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/backend/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/vendor/-bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/vendor/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/vendor/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/vendor/bootstrap-dropdownhover.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/vendor/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/vendor/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/vendor/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/vendor/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/vendor/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/vendor/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/css/vendor/yamm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/about-us.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/apple-touch-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/apple-touch-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/awards_img01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/awards_img02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/awards_img03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/cd-icon-controller.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/cd-icon-location.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/cd-icon-location.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/cd-top-arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/contact_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/dental_bracer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/dental_calculus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/dental_clean.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/dental_implant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/dental_paradois.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/dental_protect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/dentist1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/dentist2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/dentist3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/dentist4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/doctor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/our_service.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/slide_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/slide_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/images/statistic_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/googlemap-setting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/bootstrap-dropdownhover.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/easings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/form-scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/isotope.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/jquery.superslides.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/modernizr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/validator.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/frontend/js/vendor/waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/layout.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+            <state relative-caret-position="-76">
+              <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -129,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="-7">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -391,18 +298,18 @@
       <workItem from="1551964139818" duration="4290000" />
       <workItem from="1552209108514" duration="1309000" />
       <workItem from="1552216687768" duration="143000" />
-      <workItem from="1552216849580" duration="7216000" />
+      <workItem from="1552216849580" duration="7944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14942000" />
+    <option name="totallyTimeSpent" value="15670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07715582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28744328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -591,13 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -605,10 +505,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        <state relative-caret-position="-76">
+          <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
         </state>
       </provider>
     </entry>
