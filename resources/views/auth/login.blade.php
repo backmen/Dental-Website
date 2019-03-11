@@ -7,7 +7,7 @@
     <form class="user" action="{{route('login')}}" method="post">
         @csrf
         <div class="form-group">
-            <input type="email" class="form-control form-control-user {{ $errors->has('email') ? 'is-invalid' : ''}}" id="email"  value="{{old('email')}}" placeholder="Enter Email Address...">
+            <input type="email" name="email" class="form-control form-control-user {{ $errors->has('email') ? 'is-invalid' : ''}}" id="email"  value="{{old('email')}}" placeholder="Enter Email Address...">
            @if($errors->has('email'))
                 <span class="invalid-feedback" role="alert">
                     <b>{{$errors->first('email')}}</b>
@@ -15,7 +15,7 @@
             @endif
         </div>
         <div class="form-group">
-            <input type="password" value="{{old('password')}}" class="form-control form-control-user {{$errors->has('password') ? 'is-invalid' : ''}}" id="password" placeholder="Password">
+            <input type="password" name="password" value="{{old('password')}}" class="form-control form-control-user {{$errors->has('password') ? 'is-invalid' : ''}}" id="password" placeholder="Password">
             @if ($errors->has('password'))
                 <span class="invalid-feedback" role="alert">
                     <b>{{$errors->first('password')}}</b>

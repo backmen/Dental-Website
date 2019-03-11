@@ -32,6 +32,7 @@
         </div>
 
     </div>
+</div>
 
 
     <script type="text/javascript" src="{{asset('backend/vendor/bootstrap/js/jquery.min.js')}}"></script>
