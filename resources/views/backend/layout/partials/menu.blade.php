@@ -6,26 +6,32 @@
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-laugh-wink"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">SB Admin <sup>2</sup></div>
+        <div class="sidebar-brand-text mx-3">Dental Admin</div>
     </a>
 
     <!-- Divider -->
     <hr class="sidebar-divider my-0">
 
     <!-- Nav Item - Dashboard -->
-    <li class="nav-item active">
-        <a class="nav-link" href="index.html">
-            <i class="fas fa-fw fa-tachometer-alt"></i>
+    <li class="nav-item {{Request::is('admin/dashboard*') ? 'active' : ''}}">
+        <a class="nav-link " href="{{route('admin.dashboard')}}">
+            <i class="fa fa-tachometer"></i>
             <span>Dashboard</span></a>
     </li>
 
     <!-- Divider -->
     <hr class="sidebar-divider">
 
-    <!-- Heading -->
-    <div class="sidebar-heading">
-        Interface
-    </div>
+    <!-- Nav Item - site config -->
+    <li class="nav-item {{Request::is('admin/site-config*') ? 'active' : ''}}">
+        <a class="nav-link" href="{{route('admin.site.config')}}">
+            <i class="fa fa-cog"></i>
+            <span>Site Config</span></a>
+    </li>
+
+    <!-- Divider -->
+    <hr class="sidebar-divider">
+
 
     <!-- Nav Item - Pages Collapse Menu -->
     <li class="nav-item">

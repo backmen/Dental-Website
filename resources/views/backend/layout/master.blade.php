@@ -18,9 +18,11 @@
         <div id="content">
 
             @include('backend.layout.partials.header')
-
-            @yield('content')
-
+            <!-- Begin Page Content -->
+                <div class="container-fluid">
+                    @yield('content')
+                </div>
+                <!-- /.container-fluid -->
         </div>
         <!-- End of Main Content -->
 

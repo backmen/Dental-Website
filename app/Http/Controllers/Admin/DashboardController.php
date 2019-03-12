@@ -11,4 +11,8 @@ class DashboardController extends Controller
     {
         return view('backend.layout.master');
     }
+
+    public  function create(){
+
+    }
 }
