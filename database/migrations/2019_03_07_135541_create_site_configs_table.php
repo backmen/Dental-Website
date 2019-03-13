@@ -16,10 +16,10 @@ class CreateSiteConfigsTable extends Migration
         Schema::create('site_configs', function (Blueprint $table) {
             $table->increments('id');
             $table->longText('address');
-            $table->string('phone',15);
+            $table->string('phone',20);
             $table->string('facebook',64)->nullable();
             $table->string('twitter',64)->nullable();
-            $table->string('Instagram',64)->nullable();
+            $table->string('instagram',64)->nullable();
             $table->string('pinterest',64)->nullable();
             $table->timestamps();
         });

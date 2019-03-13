@@ -6,6 +6,7 @@
     <link rel="stylesheet" type="text/css" href="{{asset('backend/vendor/bootstrap/css/bootstrap.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('backend/vendor/font-awesome/css/font-awesome.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('backend/vendor/admin/css/style.min.css')}}">
+    @stack('css')
 </head>
 <body>
 <div id="wrapper">
@@ -47,5 +48,6 @@
 <script type="text/javascript" src="{{asset('backend/vendor/bootstrap/js/popper.min.js')}}"></script>
 <script type="text/javascript" src="{{asset('backend/vendor/bootstrap/js/bootstrap.min.js')}}"></script>
 <script type="text/javascript" src="{{asset('backend/vendor/admin/js/js.min.js')}}"></script>
+@stack('js')
 </body>
 </html>
