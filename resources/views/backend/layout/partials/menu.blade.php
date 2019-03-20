@@ -32,6 +32,16 @@
     <!-- Divider -->
     <hr class="sidebar-divider">
 
+    <!-- Nav Item - site config -->
+    <li class="nav-item {{Request::is('admin/slider*') ? 'active' : ''}}">
+        <a class="nav-link" href="{{route('admin.slider.index')}}">
+            <i class="fa fa-sliders"></i>
+            <span>Slider</span></a>
+    </li>
+
+    <!-- Divider -->
+    <hr class="sidebar-divider">
+
 
     <!-- Nav Item - Pages Collapse Menu -->
     <li class="nav-item">
